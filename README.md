@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 -👯 I’m building guides/learning paths for topics I've studied whilst pursuing Master's which include Time Series Analysis, Regression, Recommendation Systems and more.
 
--💬 Ask me about Artificial Intelligence 
+-💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between 
 
 -📘 [Read my blog](https://medium.com/@ritesh.panditi98)
 
--📫 How to reach me: 
-                    [email](panditiall@gmail.com)
-                    [LinkendIn](https://www.linkedin.com/in/ritesh-980/)
+-📫 How to reach me:  <br />
+                    [Mail me](panditiall@gmail.com) <br />
+                    [LinkendIn](https://www.linkedin.com/in/ritesh-980/) <br />
                     
               
 -⚡ Fun fact: The world's most sophisticated natural language technology,GPT-3 has 175 billion parameters whcih produces                                                                       [human-like](https://www.theverge.com/2020/8/16/21371049/gpt3-hacker-news-ai-blog) text while our brain has 100 trillion synapses. GPT-4 will have 100 trillion synapses.
