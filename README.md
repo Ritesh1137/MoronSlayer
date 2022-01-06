@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+" Rome wasn't bult in a day "
 
--🔭 I’m currently working,learning and looking to collaborate on Data Science | AI | ML projects
+-🔭 I’m currently working,learning and looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions with progress.
 
--🌱 I’m exploring deep learning through fast.ai  
+-🌱 Other topics of interest: Distributed AI, Neuroscience, Economics, Psycology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Computing ... 
 
 -👯 I’m building guides/learning paths for topics I've studied whilst pursuing Master's which include Time Series Analysis, Regression, Recommendation Systems and more.
 
