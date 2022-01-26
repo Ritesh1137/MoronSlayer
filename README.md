@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 " Rome wasn't bult in a day "
 
-Hi There, 
-
 I'm Ritesh, a Master's in Applied Artificial Intelligence student at Steven's Institute of Technology 
 
 -🔭 I am currently learning and exploring Quantum Mechanics, my primary interests lie in Quantum Machine Learning and Quantum Optical Computing  
