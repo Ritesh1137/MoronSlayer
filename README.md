@@ -26,7 +26,7 @@ I'm Ritesh, a Master's in Applied Artificial Intelligence student at Steven's In
 
 -👯 I’m building guides/learning paths for topics I've studied whilst pursuing Master's which include Time Series Analysis, Regression, Recommendation Systems and more.
 
--💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between 
+-💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between , Quantum AI , ethical issues that are presented with the advent of AI systems, bringing Quantum Computational capabilities to the wider population through developments in various fronts 
 
 -📘 [Read my blog](https://medium.com/@ritesh.panditi98)
 
