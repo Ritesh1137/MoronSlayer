@@ -32,8 +32,9 @@ I'm Ritesh, a Master's in Applied Artificial Intelligence student at Steven's In
 
 -📫 How to reach me:  <br />                   
                     [LinkendIn](https://www.linkedin.com/in/ritesh-980/) <br />
-                    [Twitter](https://twitter.com/AmalgamOfChaos) [1.1]: http://i.imgur.com/tXSoThF.png 
+                    [Twitter](https://twitter.com/AmalgamOfChaos)
                     [Mail me](panditiall@gmail.com) <br />
                     
-              
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+            
 -⚡ Fun fact: The world's most sophisticated natural language technology,GPT-3 has 175 billion parameters whcih produces                                                                       [human-like](https://www.theverge.com/2020/8/16/21371049/gpt3-hacker-news-ai-blog) text while our brain has 100 trillion synapses. GPT-4 will have 100 trillion synapses.
