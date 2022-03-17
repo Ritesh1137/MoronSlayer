@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Ritesh, a Master's in Applied Artificial Intelligence student at Steven's Institute of Technology 
 
--🔭 I am currently learning and exploring Quantum Mechanics, my primary interests lie in Quantum Machine Learning and Quantum Optical Computing  
+-🔭 I am currently learning and exploring Deep Learning,Quantum Mechanics and Pattern Recognition & Classification .I'm good at some of the mathematical  my primary interests lie in Quantum Machine Learning and Quantum Optical Computing  
 
 -👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions
 
@@ -30,9 +30,10 @@ I'm Ritesh, a Master's in Applied Artificial Intelligence student at Steven's In
 
 -📘 [Read my blog](https://medium.com/@ritesh.panditi98)
 
--📫 How to reach me:  <br />
-                    [Mail me](panditiall@gmail.com) <br />
+-📫 How to reach me:  <br />                   
                     [LinkendIn](https://www.linkedin.com/in/ritesh-980/) <br />
+                    [Twitter](https://twitter.com/AmalgamOfChaos) [1.1]: http://i.imgur.com/tXSoThF.png 
+                    [Mail me](panditiall@gmail.com) <br />
                     
               
 -⚡ Fun fact: The world's most sophisticated natural language technology,GPT-3 has 175 billion parameters whcih produces                                                                       [human-like](https://www.theverge.com/2020/8/16/21371049/gpt3-hacker-news-ai-blog) text while our brain has 100 trillion synapses. GPT-4 will have 100 trillion synapses.
