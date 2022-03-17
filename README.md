@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 -💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between , Quantum AI , ethical issues that are presented with the advent of AI systems, bringing Quantum Computational capabilities to the wider population through developments in various fronts 
 
+ “ I cannot look at something through someone else’s eyes. I can only truly know something which I know. “          
+
 -📘 [Read my blog](https://medium.com/@ritesh.panditi98)
 
 -📫 How to reach me:  <br />                   
