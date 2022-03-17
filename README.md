@@ -22,7 +22,7 @@ Here are some ideas to get you started:
      
 -👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
 
--🌱 Other topics of interest: Distributed AI, Neuroscience, Economics, Psycology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Computing...  and any source through which I can learn (everywhere)
+-🌱 Other topics of interest:Philosophu, Neuroscience, Economics, Psycology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum ML...  and any source through which I can learn (everywhere)
 
 -👯 I’m building guides/learning paths for topics I've studied whilst pursuing Master's which include Time Series Analysis, Regression, Recommendation Systems and more.
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
                     
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats) -->
             
--⚡ Fun fact: One of world's most sophisticated natural language technology,[GPT-3 has 175 billion parameters which produces                                                                       human-like](https://www.theverge.com/2020/8/16/21371049/gpt3-hacker-news-ai-blog) text while our brain has 100 trillion synapses. GPT-4 will have 100 trillion synapses and you're made of literal stardust. 
+-⚡ Fun fact: you're made of literal stardust. 
