@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  I'm Ritesh,a wannabe-polymath on the journey to build AGI pursuing a Master's in Applied Artificial Intelligence in the New York Metropolis, I love all things related to data.
 
--🔭 I am currently learning and exploring Deep Learning. I am interested in NLP and Computer Vision and am learning more about multi-modal algorithms. 
+-🔭 I am currently learning and exploring Deep Learning. I am interested in NLP and Computer Vision and am learning more about multi-modal algorithms
      
 -👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
 
