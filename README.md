@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
  I'm Ritesh,a wannabe-polymath on the journey to build AGI pursuing a Master's in Applied Artificial Intelligence in the New York Metropolis 
 
--🔭 I am currently learning and exploring Deep Learning,Quantum Mechanics and Pattern Recognition & Classification .
+-🔭 I am currently learning and exploring Deep Learning,Machine Learning and Pattern Recognition & Classification. I am interested in NLP and Computer Vision and am learning more about multi-modal algorithms 
      
 -👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
 
--🌱 Other topics of interest:Philosophu, Neuroscience, Economics, Psycology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum ML...  and any source through which I can learn (everywhere)
+-🌱 Other topics of interest:Philosophy, Neuroscience, Economics, Psycology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum ML...  and any source through which I can learn (everywhere)
 
 -👯 I’m building guides/learning paths for topics I've studied whilst pursuing Master's which include Time Series Analysis, Regression, Recommendation Systems and more.
 
