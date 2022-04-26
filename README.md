@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 -📫 How to reach me:  <br />                   
                     [LinkendIn](https://www.linkedin.com/in/ritesh-980/) <br />
-                  __Twitter Button|Icon:Twitter, Twitter__  [Twitter](https://twitter.com/AmalgamOfChaos) <br />
+                    [Twitter](https://twitter.com/AmalgamOfChaos) <br />
                     [Mail me](panditiall@gmail.com) <br />
                     
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats) -->
