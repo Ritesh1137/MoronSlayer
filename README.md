@@ -4,7 +4,7 @@
 
 I'm Ritesh,a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the New York Metropolis, I love all things related to data.
 
-## Please reach out if you're working towards Artificial Intelligence, computational neuroscience, BCI, or hardware optimization for efficienct computations (photonics/electronics) 
+## Please reach out if you're working towards Artificial Intelligence, computational neuroscience, BCI, or hardware optimization for efficienct computation (photonics/electronics) 
 
 -🔭 I am  learning and exploring Deep Learning. I am interested in NLP, Computer Vision and big data applications 
      
