@@ -30,10 +30,10 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
 <a href = 'https://www.linkedin.com/in/ritesh-980'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/AmalgamOfChaos'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'ritesh.panditi98'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/MoronSlayer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/MoronSlayer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> <br />
                     
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats) -->
          
--##⚡ Fun fact: you're made of literal stardust. 
+## -⚡ Fun fact: you're literally made of stardust 
 
 ### ⁉️ What do you think is the relationship between consciousness and Gödel's incompleteness theorems ? 	
