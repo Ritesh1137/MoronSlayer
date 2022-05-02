@@ -2,15 +2,15 @@
 
 “Alone we can do so little; together we can do so much.”
 
-I'm Ritesh,a wannabe-polymath on the journey to build AGI pursuing a Master's in Applied Artificial Intelligence in the New York Metropolis, I love all things related to data.
+I'm Ritesh,a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the New York Metropolis, I love all things related to data.
 
-## Please reach out if you're working with AGI, computational neuroscience or any area involving the interace between the mind (consciousness) and technology   
+## Please reach out if you're working towards Artificial Intelligence, computational neuroscience, BCI, or hardware optimization for efficienct computations (photonics/electronics) 
 
 -🔭 I am  learning and exploring Deep Learning. I am interested in NLP, Computer Vision and big data applications 
      
 -👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
 
--🌱 Other topics of interest include Genetics, Finance, Philosophy, Neuroscience, Economics, Psychology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Mechanics
+-🌱 Other topics of interest include Information Theory, Genetics, Finance, Philosophy, Neuroscience, Economics, Psychology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Mechanics
 
 -💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between , Quantum AI , ethical issues that are presented with the advent of AI systems and any intellectual musings 
 
