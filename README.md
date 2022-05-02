@@ -9,17 +9,17 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
 
 <h2> Please reach out if you're working towards Artificial General Intelligence, computational neuroscience, BCI, hardware optimization for efficienct computation (photonics/electronics), or any projects with data </h2>
  
-## -🔭 I’m currently working on ChoiceBERT - a new LM architecture evaluating BERT's syntactic abilities with multi-masking and Deep Convolutional Generative Adversarial Networks
+### -🔭 I’m currently working on ChoiceBERT - a new LM architecture evaluating BERT's syntactic abilities with multi-masking and Deep Convolutional Generative Adversarial Networks
      
-## -👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
+### -👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
 
-## -🌱 Other topics of interest include Information Theory, Genetics, Finance, Philosophy, Neuroscience, Economics, Psychology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Mechanics
+### -🌱 Other topics of interest include Information Theory, Genetics, Finance, Philosophy, Neuroscience, Economics, Psychology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Mechanics
 
-## -💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between , Quantum AI , ethical issues that are presented with the advent of AI systems and any intellectual musings 
+### -💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between , Quantum AI , ethical issues that are presented with the advent of AI systems and any intellectual musings 
 
- # “ Perfection is not attainable, but if we chase perfection we can catch excellence. “          
+ ## “ Perfection is not attainable, but if we chase perfection we can catch excellence. “          
 
--📘 [Read my blog](https://medium.com/@ritesh.panditi98)
+<!-- -📘 [Read my blog](https://medium.com/@ritesh.panditi98) -->
 
 <!-- -📫 How to reach me:  <br />                   
                     [LinkendIn](https://www.linkedin.com/in/ritesh-980/) <br />
@@ -34,6 +34,6 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
                     
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats) -->
          
--⚡ Fun fact: you're made of literal stardust. 
+-##⚡ Fun fact: you're made of literal stardust. 
 
 ### ⁉️ What do you think is the relationship between consciousness and Gödel's incompleteness theorems ? 	
