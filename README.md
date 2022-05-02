@@ -35,5 +35,5 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats) -->
          
 ## -⚡ Fun fact: you're literally made of stardust 
-
+<br />
 ### ⁉️ What do you think is the relationship between consciousness and Gödel's incompleteness theorems ? 	
