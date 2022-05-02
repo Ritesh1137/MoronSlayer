@@ -7,7 +7,7 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
 
 # I am looking for opportunities related to Data Science, AI, Machine Learning and Deep Learning 
 
-## Please reach out if you're working towards Artificial Intelligence, computational neuroscience, BCI, hardware optimization for efficienct computation (photonics/electronics), or any projects with data 
+## Please reach out if you're working towards Artificial General Intelligence, computational neuroscience, BCI, hardware optimization for efficienct computation (photonics/electronics), or any projects with data 
 
 -🔭 I am  learning and exploring Deep Learning. I am interested in NLP, Computer Vision and big data applications 
      
