@@ -2,7 +2,10 @@
 
 “Alone we can do so little; together we can do so much.”
 
-I'm Ritesh,a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the New York Metropolis, I love all things related to data.
+## I'm Ritesh,
+a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the New York Metropolis, I love all things related to data.
+
+# I am looking for opportunities related to Data Science, AI, Machine Learning and Deep Learning 
 
 ## Please reach out if you're working towards Artificial Intelligence, computational neuroscience, BCI, or hardware optimization for efficienct computation (photonics/electronics) 
 
