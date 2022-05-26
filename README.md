@@ -7,7 +7,7 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
 
 <h1> I am looking for opportunities related to Data Science, AI, Machine Learning and Deep Learning </h1>
 
-<h2> Please reach out if you're working towards Artificial General Intelligence, computational neuroscience, BCI, hardware optimization for efficienct computation (photonics/electronics), or any projects with data </h2>
+<h2> Please reach out if you're working towards Human Level Artificial Intelligence, computational neuroscience, BCI, hardware optimization for efficienct computation (photonics/electronics), or any projects with data </h2>
  
 #### 🔭 I’m currently working on ChoiceBERT - a new LM architecture evaluating BERT's syntactic abilities with multi-masking, and Deep Convolutional Generative Adversarial Networks
      
