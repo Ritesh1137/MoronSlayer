@@ -11,7 +11,7 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
  
 #### 🔭 I’m currently working on ChoiceBERT - a new LM architecture evaluating BERT's syntactic abilities with multi-masking, and Deep Convolutional Generative Adversarial Networks
      
-#### 👯 I’m currently looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
+#### 👯 I’m looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
 
 #### 🌱 Other topics of interest include Information Theory, Genetics, Finance, Philosophy, Neuroscience, Economics, Psychology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Mechanics
 
