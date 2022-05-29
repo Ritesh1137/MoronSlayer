@@ -9,13 +9,13 @@ a wannabe-polymath pursuing a Master's in Applied Artificial Intelligence in the
 
 <h2> Please reach out if you're working towards Human Level Artificial Intelligence, computational neuroscience, BCI, hardware optimization for efficienct computation (photonics/electronics), or any projects with data </h2>
  
-#### 🔭 I’m currently working on ChoiceBERT - a new LM architecture evaluating BERT's syntactic abilities with multi-masking, and Deep Convolutional Generative Adversarial Networks
+#### 🔭 I’m currently working on ChoiceBERT - a new LM benchmark to evaluate BERT's syntactic abilities with multi-masking, and Deep Convolutional Generative Adversarial Networks for robust image classification addressing mode collapse
      
-#### 👯 I’m looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way
+#### 👯 I’m looking to collaborate on Data Science | AI | ML projects. I aim to make impactful contributions that can change the world in a positive way by taking on complex challenges
 
-#### 🌱 Other topics of interest include Information Theory, Genetics, Finance, Philosophy, Neuroscience, Economics, Psychology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Mechanics
+#### 🌱 Some topics of interest include Information Theory, Genetics, Finance, Philosophy, Neuroscience, Economics, Psychology, Behavioral Science, Sustainability, Pure and Applied Mathematics, Quantum Mechanics
 
-#### 💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between , Quantum AI , ethical issues that are presented with the advent of AI systems and any intellectual musings 
+#### 💬 Possibilities I would like to converse about: The space containing Narrow, General AI and everything in between; Quantum AI , ethical issues that are presented with the advent of AI systems and intellectual musings 
 
  ## “ Perfection is not attainable, but if we chase perfection we can catch excellence. “          
                     
