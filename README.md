@@ -1,6 +1,6 @@
 <h3> Hi there 👋 </h3>
 
-# “Alone we can do so little; together we can do so much.”
+## “Alone we can do so little, together we can do so much.”
 
 <h3> I am looking for opportunities related to Data Science, AI, Machine Learning and Deep Learning </h3>
 
